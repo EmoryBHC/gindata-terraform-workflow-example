@@ -1,0 +1,4 @@
+bucket         = "example-project-state-stage"
+dynamodb_table = "exampleProjectState"
+key            = "sample-project"
+region         = "us-east-1"
